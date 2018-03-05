@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/link_96px.png</file>
+        <file>icons/mark_96px.png</file>
+        <file>icons/offline_96px.png</file>
+        <file>icons/online_96px.png</file>
+        <file>icons/record_96px.png</file>
+        <file>icons/stop_96px.png</file>
+        <file>icons/unlink_96px.png</file>
+        <file>icons/flag_48px.png</file>
+        <file>icons/link_48px.png</file>
+        <file>icons/offline_48px.png</file>
+        <file>icons/online_48px.png</file>
+        <file>icons/record_48px.png</file>
+        <file>icons/stop_48px.png</file>
+        <file>icons/unlink_48px.png</file>
+    </qresource>
+</RCC>
