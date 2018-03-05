@@ -31,7 +31,7 @@ Widget::Widget(QWidget *parent) : QWidget(parent)
     connect(_timer, &QTimer::timeout, this, &Widget::onTimerTimeout, Qt::DirectConnection);
 
     _sendTimer = new QTimer(this);
-    _sendTimer->setInterval(100);
+    _sendTimer->setInterval(50);
     connect(_sendTimer, &QTimer::timeout, this, &Widget::onSendData, Qt::DirectConnection);
 }
 
