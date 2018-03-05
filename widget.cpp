@@ -231,10 +231,3 @@ void Widget::on_pushButton_toggled(bool checked)
         _timer->start();
     }
 }
-
-void Widget::on_closeConectionButton_released()
-{
-    if (_tcpSocketIn != Q_NULLPTR) {
-        _tcpSocketIn->close();
-    }
-}

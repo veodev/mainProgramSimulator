@@ -53,10 +53,7 @@ private slots:
     void on_nextButton_released();
     void on_prevButton_released();
     void on_markButton_toggled(bool checked);
-
     void on_pushButton_toggled(bool checked);
-
-    void on_closeConectionButton_released();
 
 private:
     Ui::Widget *ui;

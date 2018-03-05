@@ -1000,13 +1000,6 @@ QSpinBox::down-button { width: 30; }</string>
      </property>
     </widget>
    </item>
-   <item>
-    <widget class="QPushButton" name="closeConectionButton">
-     <property name="text">
-      <string>Close connection</string>
-     </property>
-    </widget>
-   </item>
   </layout>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
